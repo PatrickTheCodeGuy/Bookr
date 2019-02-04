@@ -1,8 +1,8 @@
-# Pitch: Bookr is your source for all things Text Book. Picture the AirBNB of text books, a social platform for peer reviewed text books.
+# Bookr is your source for all things Text Book. Picture the AirBNB of text books, a social platform for peer reviewed text books.
 
-#MVP: As a user I can log in, and see a list of text books. Each book will have a 5 star rating I can browse from. As a user I can review each book.
+MVP: As a user I can log in, and see a list of text books. Each book will have a 5 star rating I can browse from. As a user I can review each book.
 
-#Stretch Goal: A link to each book will take me to a site where I can purchase a book and compare prices.
+Stretch Goal: A link to each book will take me to a site where I can purchase a book and compare prices.
 
 ## MVP Features Breakdown:
 
