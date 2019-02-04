@@ -1,4 +1,6 @@
-# Bookr is your source for all things Text Book. Picture the AirBNB of text books, a social platform for peer reviewed text books.
+# What is Bookr?
+
+Bookr is your source for all things Text Book. Picture the AirBNB of text books, a social platform for peer reviewed text books.
 
 MVP: As a user I can log in, and see a list of text books. Each book will have a 5 star rating I can browse from. As a user I can review each book.
 
